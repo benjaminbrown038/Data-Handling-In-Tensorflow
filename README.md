@@ -1,4 +1,5 @@
-This repo contains software in python that deals with handling image data; specifically in using the datapreprocessing library in keras. 
+This repo contains software in python that deals with handling image files locally while converting them into data types compatible with keras convolutional neural network layers.
+Libary - datapreprocessing 
 # Resources:
 https://keras.io/api/preprocessing/image/
 
